@@ -1,7 +1,3 @@
-Publishes to [https://clearmatics.github.io/autonity-uniswap-interface/]()
-
-Check out the blog [here](https://github.com/clearmatics/autonity-uniswap-interface/blob/master/blog.md)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
